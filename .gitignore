@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# PyTorch CUDA extensions
+*.o
+*.obj
+*.lib
+*.exp
+*.pdb
+
+# Results and outputs
+infinite_dreams/results/
+
+# OS
+.DS_Store
+Thumbs.db
